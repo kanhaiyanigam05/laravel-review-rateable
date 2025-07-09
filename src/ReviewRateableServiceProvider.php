@@ -1,9 +1,9 @@
 <?php
 
-namespace Codebyray\ReviewRateable;
+namespace Kanhaiyanigam05\ReviewRateable;
 
-use Codebyray\ReviewRateable\Contracts\ReviewRateableContract;
-use Codebyray\ReviewRateable\Services\ReviewRateableService;
+use Kanhaiyanigam05\ReviewRateable\Contracts\ReviewRateableContract;
+use Kanhaiyanigam05\ReviewRateable\Services\ReviewRateableService;
 use Illuminate\Support\ServiceProvider;
 
 class ReviewRateableServiceProvider extends ServiceProvider
