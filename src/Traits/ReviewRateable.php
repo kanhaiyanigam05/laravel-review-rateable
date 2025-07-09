@@ -1,8 +1,8 @@
 <?php
 
-namespace Codebyray\ReviewRateable\Traits;
+namespace Kanhaiyanigam05\ReviewRateable\Traits;
 
-use Codebyray\ReviewRateable\Models\Review;
+use Kanhaiyanigam05\ReviewRateable\Models\Review;
 use Illuminate\Database\Eloquent\Collection;
 
 trait ReviewRateable

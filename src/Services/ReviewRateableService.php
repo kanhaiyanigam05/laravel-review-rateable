@@ -1,8 +1,8 @@
 <?php
 
-namespace Codebyray\ReviewRateable\Services;
+namespace Kanhaiyanigam05\ReviewRateable\Services;
 
-use Codebyray\ReviewRateable\Contracts\ReviewRateableContract;
+use Kanhaiyanigam05\ReviewRateable\Contracts\ReviewRateableContract;
 use Exception;
 use Illuminate\Database\Eloquent\Collection;
 

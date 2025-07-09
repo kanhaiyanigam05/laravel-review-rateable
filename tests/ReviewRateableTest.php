@@ -1,12 +1,12 @@
 <?php
 
-namespace Codebyray\ReviewRateable\Tests;
+namespace Kanhaiyanigam05\ReviewRateable\Tests;
 
-use Codebyray\ReviewRateable\Models\Review;
+use Kanhaiyanigam05\ReviewRateable\Models\Review;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Support\Facades\Schema;
 use Illuminate\Database\Eloquent\Model;
-use Codebyray\ReviewRateable\Traits\ReviewRateable;
+use Kanhaiyanigam05\ReviewRateable\Traits\ReviewRateable;
 
 // Set up an in-memory database and create the necessary tables.
 beforeEach(function () {

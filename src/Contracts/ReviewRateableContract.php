@@ -1,6 +1,6 @@
 <?php
 
-namespace Codebyray\ReviewRateable\Contracts;
+namespace Kanhaiyanigam05\ReviewRateable\Contracts;
 
 use Illuminate\Database\Eloquent\Collection;
 

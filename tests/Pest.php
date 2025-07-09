@@ -1,5 +1,5 @@
 <?php
 
-use Codebyray\ReviewRateable\Tests\TestCase;
+use Kanhaiyanigam05\ReviewRateable\Tests\TestCase;
 
 uses(TestCase::class)->in(__DIR__);

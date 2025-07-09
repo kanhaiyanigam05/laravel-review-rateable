@@ -1,9 +1,9 @@
 <?php
 
-namespace Codebyray\ReviewRateable\Tests;
+namespace Kanhaiyanigam05\ReviewRateable\Tests;
 
 use Orchestra\Testbench\TestCase as OrchestraTestCase;
-use Codebyray\ReviewRateable\ReviewRateableServiceProvider;
+use Kanhaiyanigam05\ReviewRateable\ReviewRateableServiceProvider;
 
 abstract class TestCase extends OrchestraTestCase
 {
